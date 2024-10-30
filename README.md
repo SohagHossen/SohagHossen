@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is **SohagHossen/SohagHossen** . I work as a Server administrator (Code For Host Inc Ltd.).
+I am **Sohag Hossen**. I work as a Server administrator (Code For Host Inc Ltd.).
 
 
 - 🔧 Server Administrator | DevOps
