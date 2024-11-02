@@ -19,12 +19,13 @@ I am **Sohag Hossen**. I work as a Server administrator (Code For Host Inc Ltd.)
 
 ## 🛠️ Tech Stack
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-0064A5?logo=gitlab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)](https://helm.sh/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](https://prometheus.io/)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
+[![Docker](https://your-image-hosting-service.com/docker-100x100.png)](https://www.docker.com/)
+[![Ansible](https://your-image-hosting-service.com/ansible-100x100.png)](https://www.ansible.com/)
+[![Kubernetes](https://your-image-hosting-service.com/kubernetes-100x100.png)](https://kubernetes.io/)
+[![Bash](https://your-image-hosting-service.com/bash-100x100.png)](https://www.gnu.org/software/bash/)
+[![Go](https://your-image-hosting-service.com/go-100x100.png)](https://golang.org/)
+[![CI/CD](https://your-image-hosting-service.com/cicd-100x100.png)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+[![Helm](https://your-image-hosting-service.com/helm-100x100.png)](https://helm.sh/)
+[![Prometheus](https://your-image-hosting-service.com/prometheus-100x100.png)](https://prometheus.io/)
+[![Grafana](https://your-image-hosting-service.com/grafana-100x100.png)](https://grafana.com/)
+
