@@ -30,9 +30,6 @@ I am **Sohag Hossen**. I work as a Server administrator (Code For Host Inc Ltd.)
   <a href="https://grafana.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/grafana.gif"  height="70" />
   </a>
-  <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/cicd.gif"  height="70" />
-  </a>
  </p>
 
 ### Programming Languages.
@@ -44,7 +41,7 @@ I am **Sohag Hossen**. I work as a Server administrator (Code For Host Inc Ltd.)
     <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/golang.gif"  height="70" />
   </a>
   <a href="https://github.com/SohagHossen/Bash_Script" target="_blank" >
-    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/bash.png"  height="70" />
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/shell.gif"  height="70" />
   </a>
  </p>
 
@@ -57,7 +54,7 @@ I am **Sohag Hossen**. I work as a Server administrator (Code For Host Inc Ltd.)
     <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/google_cloud.gif"  height="70" />
   </a>
   <a href="https://azure.microsoft.com/en-us" target="_blank" >
-    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/azure-cloud-storage.png"  height="70" />
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/azure.jpg"  height="70" />
   </a>
  </p>
  
@@ -70,7 +67,7 @@ I am **Sohag Hossen**. I work as a Server administrator (Code For Host Inc Ltd.)
     <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/debian.gif"  height="70" />
   </a>
   <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" >
-    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/windows.gif"  height="70" />
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/windows-server.png"  height="70" />
   </a>
  </p>
 
