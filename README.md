@@ -31,11 +31,11 @@ I am **Sohag Hossen**. I work as a Server administrator (Code For Host Inc Ltd.)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## Security Tools
-[![Firewall](https://img.shields.io/badge/Firewall-F24E1E?style=for-the-badge&logo=firewall&logoColor=white)
-[![SSL](https://img.shields.io/badge/SSL-008000?style=for-the-badge&logo=ssl&logoColor=white)
-[![Imunify360](https://img.shields.io/badge/Imunify360-00A9E0?style=for-the-badge&logo=imunify360&logoColor=white)
-[![ClamAV](https://img.shields.io/badge/ClamAV-0170FE?style=for-the-badge&logo=clamav&logoColor=white)
-[![ModSecurity](https://img.shields.io/badge/ModSecurity-C00000?style=for-the-badge&logo=modsecurity&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-F24E1E?style=for-the-badge&logo=firewall&logoColor=white)
+![SSL](https://img.shields.io/badge/SSL-008000?style=for-the-badge&logo=ssl&logoColor=white)
+![Imunify360](https://img.shields.io/badge/Imunify360-00A9E0?style=for-the-badge&logo=imunify360&logoColor=white)
+![ClamAV](https://img.shields.io/badge/ClamAV-0170FE?style=for-the-badge&logo=clamav&logoColor=white)
+[![ModSecurity](https://img.shields.io/badge/ModSecurity-C00000?style=for-the-badge&logo=modsecurity&logoColor=white)]
 
 - 🔧 Server Administrator | DevOps
 - 🌱 Currently learning advanced server management techniques and DevOps operations.
