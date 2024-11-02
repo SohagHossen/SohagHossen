@@ -1,48 +1,98 @@
 ## Hi there 👋
 I am **Sohag Hossen**. I work as a Server administrator (Code For Host Inc Ltd.).- 🌱 Currently learning advanced server management techniques and DevOps operations, virtualization, networking, and Monitoring Tools.
 
-## DevOps Tools.
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=github-actions&logoColor=white)
+### DevOps Tools.
 
-## Monitoring Tools.
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+</style> 
+ <p float="left">
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/ansible.png"  height="75" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/cicd.gif"  height="75" />
+  </a>
+ </p>
 
-## Programming Languages.
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-## Server Tools
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### Monitoring Tools.
+ <p float="left">
+  <a href="https://helm.sh/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/helm.gif"  height="70" /> 
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/prometheus.gif"  height="70" />
+  </a>
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/grafana.gif"  height="70" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/cicd.gif"  height="70" />
+  </a>
+ </p>
 
-## Operating System.
-![Redhat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### Programming Languages.
+ <p float="left">
+  <a href="https://www.python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/python.gif"  height="70" /> 
+  </a>
+  <a href="https://go.dev/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/golang.gif"  height="70" />
+  </a>
+  <a href="https://github.com/SohagHossen/Bash_Script" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/bash.png"  height="70" />
+  </a>
+ </p>
 
-## DataBase
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Server Tools.
+ <p float="left">
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/aws.gif"  height="70" /> 
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/google_cloud.gif"  height="70" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/azure-cloud-storage.png"  height="70" />
+  </a>
+ </p>
+ 
+ ### Operating System.
+ <p float="left">
+  <a href="https://www.redhat.com/en" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/redhat.png"  height="70" /> 
+  </a>
+  <a href="https://www.debian.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/debian.gif"  height="70" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/windows.gif"  height="70" />
+  </a>
+ </p>
 
-## Security Tools
+### DataBase.
+ <p float="left">
+  <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/mysql.gif"  height="70" /> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/mongo.gif"  height="70" />
+  </a>
+  <a href="https://redis.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/radis.gif"  height="70" />
+  </a>
+ </p>
+ 
+### Security Tools
 ![Firewall](https://img.shields.io/badge/Firewall-F24E1E?style=for-the-badge&logo=firewall&logoColor=white)
 ![SSL](https://img.shields.io/badge/SSL-008000?style=for-the-badge&logo=ssl&logoColor=white)
 ![Imunify360](https://img.shields.io/badge/Imunify360-00A9E0?style=for-the-badge&logo=imunify360&logoColor=white)
 ![ClamAV](https://img.shields.io/badge/ClamAV-0170FE?style=for-the-badge&logo=clamav&logoColor=white)
 ![ModSecurity](https://img.shields.io/badge/ModSecurity-C00000?style=for-the-badge&logo=modsecurity&logoColor=white)
-
-## test
-[![Firewall](https://img.shields.io/badge/Firewall-F24E1E?logo=firewall&logoColor=white)](https://example.com/firewall)
-[![SSL](https://img.shields.io/badge/SSL-008000?logo=ssl&logoColor=white)](https://example.com/ssl)
-[![Imunify360](https://img.shields.io/badge/Imunify360-00A9E0?logo=imunify360&logoColor=white)](https://example.com/imunify360)
-[![ClamAV](https://img.shields.io/badge/ClamAV-0170FE?logo=clamav&logoColor=white)](https://example.com/clamav)
-[![ModSecurity](https://img.shields.io/badge/ModSecurity-C00000?logo=modsecurity&logoColor=white)](https://example.com/modsecurity)
 
 - 🔧 Server Administrator | DevOps
 - 🌱 Currently learning advanced server management techniques and DevOps operations.
@@ -51,22 +101,3 @@ I am **Sohag Hossen**. I work as a Server administrator (Code For Host Inc Ltd.)
 ### Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/shuhagsr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sohag-hossen041098/)
-
-
-### My Tech Stack:
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![KVM](https://img.shields.io/badge/KVM-green)
-![Nginx](https://img.shields.io/badge/Nginx-blue)
-
-
-
-
-
-
-
-
-
-
-
-
-
