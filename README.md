@@ -3,7 +3,6 @@ I am **Sohag Hossen**. I work as a Server administrator (Code For Host Inc Ltd.)
 
 ### DevOps Tools.
 
-</style> 
  <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/SohagHossen/SohagHossen/refs/heads/main/assets/docker.gif"  height="80" /> 
